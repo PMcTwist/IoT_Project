@@ -1,0 +1,9 @@
+Madakam, S. , Ramaswamy, R. and Tripathi, S. (2015) Internet of Things (IoT): A Literature Review. Journal of Computer and Communications, 3, 164-173. doi: 10.4236/jcc.2015.35021. 
+
+Li, S., Xu, L.D. & Zhao, S. The internet of things: a survey. Inf Syst Front 17, 243–259 (2015). https://doi.org/10.1007/s10796-014-9492-7
+
+L. D. Xu, W. He and S. Li, "Internet of Things in Industries: A Survey," in IEEE Transactions on Industrial Informatics, vol. 10, no. 4, pp. 2233-2243, Nov. 2014, doi: 10.1109/TII.2014.2300753.
+keywords: {Radiofrequency identification;Big data;Wireless sensor networks;Service-oriented architecture;Wireless communication;Big data analytics;enterprise systems;information and communications technology (ICT);industrial informatics;internet of things (IoT);near field communications;radio-frequency identification (RFID);wireless sensor networks (WSNs)},
+
+Bhattacharayya, R. et al. (2010). Low-cost, ubiquitous RFID-tag-antenna-based sensing. Proceedings of the IEEE. 98 (10). 1593-1600.
+
